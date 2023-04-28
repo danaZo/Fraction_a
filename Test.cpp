@@ -7,8 +7,9 @@ using namespace std;
 
 /*  Sources I used:
     the web for the + operator tests ideas: https://www.m-math.co.il/5th-grade/fractions-adding-and-subtracting/
-    the web for the - operator tests ideas:
-    the web for the / operator tests ideas:
+    the web for the - operator tests ideas: https://www.m-math.co.il/5th-grade/subtract-fractions/
+    the web for the / operator tests ideas: https://he.symbolab.com/solver/fractions-divide-calculator
+    the web for the * operator tests ideas: https://www.m-math.co.il/6th-grade/multiplying-fractions/
 */
 
 
